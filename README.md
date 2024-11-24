@@ -23,7 +23,7 @@ Atölye sırasında kullanılan araçların ve kütüphanelerin kurulumu için a
 
 1. Bu repoyu bilgisayarınıza klonlayın:  
    ```bash  
-   git clone https://github.com/kullanici-adiniz/rag-kisisel-asistan-atolyesi.git
+   git clone https://github.com/lokicik/rag-kisisel-asistan-atolyesi.git
 
 2. Notebook'u Visual Studio Code üzerinden Jupyter Notebook eklentisi ile ya da Google Colab, Kaggle ya da Saturn Cloud gibi platformlara yükleyip çalıştırabilirsiniz.
 
