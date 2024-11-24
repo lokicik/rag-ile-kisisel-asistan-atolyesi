@@ -10,10 +10,10 @@ Bu repo aşağıdaki dosyaları içermektedir:
    - Atölyede kullanılan Jupyter Notebook dosyasıdır.  
    - Katılımcılar, bu dosya sayesinde RAG modeli uygulamalarını adım adım takip edebilirler.  
 
-2. **Örnek PDF Dokümanı**  
+2. **Örnek PDF Dokümanı (.pdf)** 
    - GDG On Campus Trakya Üniversitesi'nin düzenlediği etkinlikler hakkında bilgi içeren örnek doküman.  
 
-3. **Slayt Sunumu**  
+3. **Slayt Sunumu (.pptx)**  
    - Atölye boyunca kullanılan sunum slaytlarını içerir.  
    - Konseptlerin hızlı bir şekilde gözden geçirilmesi ve detaylı bilgiler için uygundur.  
 
