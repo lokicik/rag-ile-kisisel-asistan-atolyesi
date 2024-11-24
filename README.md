@@ -30,5 +30,6 @@ Atölye sırasında kullanılan araçların ve kütüphanelerin kurulumu için a
 ## İletişim
 Etkinlik ile ilgili sorularınız veya geri bildirimleriniz için lütfen GDG On Campus Trakya ile iletişime geçin:
 
-* (GDG On Campus Trakya Instagram Hesabı)[https://www.instagram.com/gdgoncampustu/]
-* (Eğitmen Lokman Baturay Efe LinkedIn hesabı)[https://www.linkedin.com/in/lokmanefe/]
+* [GDG On Campus Trakya Instagram Hesabı](https://www.instagram.com/gdgoncampustu/)
+* [Eğitmen Lokman Baturay Efe LinkedIn hesabı](https://www.linkedin.com/in/lokmanefe/)
+
