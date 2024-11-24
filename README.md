@@ -6,7 +6,7 @@ Bu repo, GDG On Campus Trakya tarafından düzenlenen ve 25 Kasım 2024 tarihind
 
 Bu repo aşağıdaki dosyaları içermektedir:  
 
-1. **Atölye Not Defteri (.ipynb)**  
+1. **Atölye Notebook'u (.ipynb)**  
    - Atölyede kullanılan Jupyter Notebook dosyasıdır.  
    - Katılımcılar, bu dosya sayesinde RAG modeli uygulamalarını adım adım takip edebilirler.  
 
