@@ -26,6 +26,12 @@ Atölye sırasında kullanılan araçların ve kütüphanelerin kurulumu için a
    git clone https://github.com/lokicik/rag-kisisel-asistan-atolyesi.git
 
 2. Notebook'u Visual Studio Code üzerinden Jupyter Notebook eklentisi ile ya da Google Colab, Kaggle ya da Saturn Cloud gibi platformlara yükleyip çalıştırabilirsiniz.
+- 1. https://aistudio.google.com/app/apikey adresinden Gemini API Key'inizi alın.
+- 2. Bu repository'den .ipynb dosyasını indirin.
+- 3. Google Colab üzerinden .ipynb dosyasını açın (Dosya -> Notebook Yükle -> Dosyayı seç)
+- 4. Açılan notebook üzerinden sırasıyla 0 ve 5 numaralı bölmeleri çalıştırın.
+- 5. 5 numaralı bölmenin çıktı kısmından uygulama arayüzüne erişebilirsiniz.
+
 
 ## İletişim
 Etkinlik ile ilgili sorularınız veya geri bildirimleriniz için lütfen GDG On Campus Trakya ile iletişime geçin:
